@@ -1,5 +1,26 @@
+body {
+    max-width: 1000px;
+    max-height: 8000px;
+    margin: 0 auto;
+    background-image: url('record.png');
+    background-repeat: repeat;
+  
+
+}
+
+
+
 header {
 background-color: black;
 color: aliceblue;
 text-align: center;
+
+}
+
+main {
+  
+   
+   
+ 
+
 }
