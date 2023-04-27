@@ -8,32 +8,3 @@ body {
 
 }
 
-
-
-.top-head {
-background-color: greenyellow;
-color: blue;
-text-align: center;
-width: 100%;
-
-}
-
-.content{
-    background-color: lightgrey;
-    padding: 1em;
-    width: 100%;
- 
-
-}
-
-
-.bottom{
-    height: 50px;
-    background-color: gray;
-    position: relative;
-    margin-top: 500px;
-    margin-bottom: 10px;
-    clear: both;
-
-}
-
