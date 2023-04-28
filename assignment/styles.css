@@ -25,3 +25,14 @@ body {
     }
     
     
+    .bottom{
+        height: 50px;
+        background-color: gray;
+        position: relative;
+        margin-top: 500px;
+        margin-bottom: 10px;
+        clear: both;
+    
+    }
+    
+    
